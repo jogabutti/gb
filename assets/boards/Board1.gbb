@@ -1,0 +1,19 @@
+GBB/1.0
+size 7 5
+cell 6 0 Verde 1
+cell 3 1 Verde 1
+cell 4 1 Verde 1
+cell 5 1 Verde 1
+cell 6 1 Azul 1
+cell 0 2 Verde 1
+cell 1 2 Verde 1
+cell 2 2 Verde 1
+cell 0 3 Rojo 1
+cell 4 3 Verde 1
+cell 5 3 Verde 1
+cell 6 3 Verde 1
+cell 0 4 Verde 1
+cell 1 4 Verde 1
+cell 2 4 Verde 1
+cell 3 4 Verde 1
+head 0 3
